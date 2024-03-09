@@ -1,0 +1,1 @@
+# code javascript untuk terhubung dengan metamask menggunakan javascript
